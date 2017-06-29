@@ -6,7 +6,7 @@ class ProductList extends Component {
   render() {
     const products = [
       {
-        name: "Banana",
+        name: "Apple",
         price: 123
       },
       {
